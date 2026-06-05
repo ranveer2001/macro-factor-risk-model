@@ -95,5 +95,27 @@ This project builds a macro-driven factor risk model to explain and decompose mu
 
 ---
 
+---
+
+## 📊 Results & Visual Analysis
+
+### Market Regimes (PCA Factor Space)
+![Market Regimes](results/Market%20Regimes%20(PCA%20Factor%20Space).png)
+
+---
+
+### SPY Rolling Factor Exposure
+![SPY Rolling Exposure](results/SPY%20Rolling%20Factor%20Exposure.png)
+
+---
+
+### SPY Rolling Exposure (Regime Stability)
+![Regime Stability](results/SPY%20Rolling%20Factor%20Exposure%20(Regime%20Stability).png)
+
+---
+
+### Systematic Risk and Crisis Index
+![Crisis Index](results/Systematic%20Risk%20and%20Crisis%20Index.png)
+
 ## Author
 Ranveer Bhalla
